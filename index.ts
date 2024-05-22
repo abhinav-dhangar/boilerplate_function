@@ -3,6 +3,8 @@ import ora, { Ora } from "ora";
 import chalk from "chalk";
 
 const spinner: Ora = ora(chalk.bgWhite.magenta("loading")).start();
+console.log("/n");
+
 spinner.color = "red";
 coreService()
   .then((res) => {

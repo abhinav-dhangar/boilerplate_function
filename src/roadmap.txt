@@ -1,0 +1,9 @@
+//will add more things like ----
+
+using s3 
+using like as worker 
+make compatible for digitalocean function 
+
+
+// in future i will make a different boilerplate for hono and elysiajs 
+
